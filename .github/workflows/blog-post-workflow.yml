@@ -1,0 +1,17 @@
+name: latest-posts-workflow
+on:
+  schedule:
+    # Runs every day 5AM
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-posts:
+    name: Update this repo's README with latest posts from various feeds
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          feed_list: "https://dev.to/feed/clerintom"
