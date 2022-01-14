@@ -19,14 +19,14 @@
 ---
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="/icons/python.png" />][webdevplaylist]
-[<img align="left" alt="Data Science" width="26px" src="/icons/datascience.png" />][webdevplaylist]
-[<img align="left" alt="Tableau" width="26px" src="/icons/tableau.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="/icons/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="/icons/github.png" />][webdevplaylist]
-[<img align="left" alt="AWS" width="26px" src="/icons/aws.png" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="/icons/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="/icons/mysql.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="/icons/python.png" />]
+[<img align="left" alt="Data Science" width="26px" src="/icons/datascience.png" />]
+[<img align="left" alt="Tableau" width="26px" src="/icons/tableau.png" />]
+[<img align="left" alt="Git" width="26px" src="/icons/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="/icons/github.png" />]
+[<img align="left" alt="AWS" width="26px" src="/icons/aws.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="/icons/sql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="/icons/mysql.png" />]
 
 <br />
 <br />
