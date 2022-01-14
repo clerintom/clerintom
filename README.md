@@ -33,6 +33,7 @@
 
 ### 📕 Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Skills to acquire for landing on a Data Science job ...](https://dev.to/clerintom/skills-to-acquire-for-landing-on-a-data-science-job--3mkb)
 <!-- BLOG-POST-LIST:END -->
 ---
 
