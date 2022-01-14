@@ -10,8 +10,8 @@
 <br />
 
 ### Profile:
-- Github : [Website]
-- Linkedin : [Linkedin]
+| Portfolio : [Website] | Linkedin : [Linkedin] |
+| ------------- | ------------- |
 
 <br />
 
@@ -29,6 +29,7 @@
 <br />
 <br />
 
+---
 
 
 ### 📕 Latest Blogs
@@ -37,16 +38,10 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-</details>
 
 
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-</details>
-
+| ![Clerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clerintom&count_private=true&layout=compact&theme=buefy&hide_border=true&hide=contribs)| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clerintom&layout=compact&theme=buefy&hide_border=true") |
+| ------------- | ------------- |
 
 ### Contact: 
 - mailclerin@gmail.com
