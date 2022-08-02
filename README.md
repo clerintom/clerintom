@@ -2,9 +2,10 @@
 
 ### Who am I!!
 
-- 🌱 I’m currently a Data Science and Analytics Student @ ICT Academy Kerala, India.
+- 🌱 I’m currently doing Certification course in Machinne Learning and Artificial Intelligence @ ICT Academy Kerala, India.
+- 🌱 Certified specialist in Data Science and Analytics 
 - 🔭 I'm a passionate software professional with Masters in Computer Science
-- 🤔 I’m looking for help with getting my first job as Data Science/Analytics/Python developer
+- 🤔 I’m looking for help with getting my first job as Data Science/Analytics/ML Developer
 - 📫 How to reach me: mailclerin@gmail.com
 
 <br />
